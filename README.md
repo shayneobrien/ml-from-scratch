@@ -1,1 +1,1 @@
-Just some playing around with the most bare-bones implementations of core ML algorithms I can manage. TODO: evaluation on all, cross-validation fnc, naive-bayes, SVM, Random Forests, n-layer MLP, CNN, RNN.
+Just some playing around with the most bare-bones implementations of core ML algorithms I can manage. TODO: remove numpy in favor of util fncs, only use pandas to load, do evaluation separation on all, cross-validation fnc, SVM, Random Forests, n-layer MLP, CNN, RNN.
